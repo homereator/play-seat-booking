@@ -1,0 +1,16 @@
+{
+    "soldSeats": [
+        {
+            "row": "A",
+            "seatNumber": 1
+        },
+        {
+            "row": "B",
+            "seatNumber": 2
+        },
+        {
+            "row": "C",
+            "seatNumber": 3
+        }
+    ]
+}
